@@ -1,1 +1,4 @@
 # guessTheNumberGame
+
+RecursionのBackendProject1の成果物
+CLI上で動作する数当てゲームです
